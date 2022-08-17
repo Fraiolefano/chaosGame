@@ -1,5 +1,3 @@
-//By Fraiolefano
-
 var currentPoint;
 var indexes=[0,0,0];    // current, previous, previous previous
 var vertices=[];
