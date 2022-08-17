@@ -1,5 +1,3 @@
-//By Fraiolefano
-
 PVector currentPoint;
 PVector previousVertex[];
 int currentIndex,previousIndex;
