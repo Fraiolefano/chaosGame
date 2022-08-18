@@ -1,4 +1,3 @@
-//by Fraiolefano
 float mainRatio=1;
 PVector mainSize;
 String title="Chaos Game";
