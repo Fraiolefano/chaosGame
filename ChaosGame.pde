@@ -50,7 +50,7 @@ String imgName;
 PImage appIcon;
 void setup()
 {
-  appIcon=loadImage("./data/ChaosGame.png");
+  appIcon=loadImage("./data/icon.png");
   surface.setIcon(appIcon);
   fullScreen();
   textAlign(CENTER);
